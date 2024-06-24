@@ -1031,6 +1031,10 @@ body{
 
      /* ===== home section ===== */
 
+body{
+    max-width: 93%;
+}
+
 .home .home-container{
     display: grid;
 }
